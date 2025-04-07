@@ -1,0 +1,17 @@
+{
+  "name": "distance-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/distance-calculator.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/B4IGit/web-340.git"
+  },
+  "private": true,
+  "devDependencies": {
+    "vitest": "^3.1.1"
+  }
+}
